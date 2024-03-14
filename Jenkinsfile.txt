@@ -10,8 +10,8 @@ pipeline {
      
         stage('sprint1') { 
             steps { 
-               sh 'echo "sprint1 branchh..."'
-            }
+               sh 'echo "sprint2 branchh..."'
+            }i
         }
 
         stage("Development") { 
